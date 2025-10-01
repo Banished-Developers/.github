@@ -5,7 +5,7 @@
 
 ### What is Banished?
 
-Banished is a Minecraft: Bedrock Edition communit, we focus on making tools for users to enhance their experience.
+Banished is a Minecraft: Bedrock Edition community, we focus on making tools for users to enhance their experience.
 We operate the free-to-use website https://banished.app, with it you can port packs to iOS, make multipersona packs, replace official capes, and more.
 
 This GitHub organization is used to store the source code of our projects, as much as we would like to be open-source, we cannot allow for people to create clones of our site and apps that are malicious, we do not want to take the risk of our users falling for these malicious sites.
